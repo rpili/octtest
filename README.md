@@ -1,2 +1,2 @@
 # Project-Octocat
-Website gallery of Octocat drawings
+Website gallery of Octocat drawings using React and Microsoft Azure
